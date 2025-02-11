@@ -2,11 +2,12 @@
 
 A Windows 10 Universal Windows Platform (UWP) application for a simple personal kanban board, used as a workflow visualization tool and allows dragging of individual tasks and multiple project boards with syncing to OneDrive.
 
+> [!NOTE]  
+> This project will no longer be maintained, instead a WinUI3 .NET8 solution is in the works to replace the UWP version with the WinUI Kanban control that's currently in preview [here](https://www.syncfusion.com/winui-controls/kanban). The new WinUI solution will be published [here](https://github.com/hjo12/kanban-tasker) once ready.
+
 ## Kanban Tasker Details
 
 Created with C#/XAML and the Windows 10 Universal Windows Platform. The UI is created with Extensible Application Markup Language (XAML) and backend is using C#. 
-
-*New Screenshots Coming Soon
 
 Uses a kanban control created by [Syncfusion](https://www.syncfusion.com) fully customized to Kanban Taskers style (see corresponding data templates in *BoardView.xaml, and App.xaml*). Also implemented with a Sqlite database to store the tasks/boards and uses create, read, update, and delete (CRUD) operations against the database.
 
@@ -104,12 +105,6 @@ Target Version: Windows 10, Version 1903
 * [Universal Windows Platform](https://developer.microsoft.com/en-us/windows/apps) - The desktop framework used
 * [Syncfusion for UWP Kanban Board](https://www.syncfusion.com/uwp-ui-controls/kanban-board) - UI Kanban Board used
 * [Sqlite - Started with tutorial by Microsoft](https://docs.microsoft.com/en-us/windows/uwp/data-access/sqlite-databases) - Database Framework 
-
-## Authors
-
-* **Hunter** - [hjohnson012](https://github.com/hjohnson12)
-
-See also the list of [contributors](https://github.com/hjohnson12/KanbanTasker/graphs/contributors) who participated in this project.
 
 ## License
 
