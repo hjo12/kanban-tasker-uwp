@@ -3,7 +3,7 @@
 A Windows 10 Universal Windows Platform (UWP) application for a simple personal kanban board, used as a workflow visualization tool and allows dragging of individual tasks and multiple project boards with syncing to OneDrive.
 
 > [!NOTE]  
-> This project will no longer be maintained, instead a WinUI3 .NET8 solution is in the works to replace the UWP version with the WinUI Kanban control that's currently in preview [here](https://www.syncfusion.com/winui-controls/kanban). The new WinUI solution will be published [here](https://github.com/hjo12/kanban-tasker) once ready.
+> This project will no longer be maintained, instead a WinUI3 .NET10 solution is in the works to replace the UWP version with the WinUI Kanban control that's currently in preview [here](https://www.syncfusion.com/winui-controls/kanban). The new WinUI solution will be published [here](https://github.com/hjo12/kanban-tasker-winui) once ready.
 
 ## Kanban Tasker Details
 
